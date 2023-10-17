@@ -20,3 +20,6 @@ Video Demonstrating Link https://drive.google.com/file/d/1IzW0Yl6xiHTdU0mZwF0HDq
 
 report link
 https://1drv.ms/w/s!Ai6QTDgD-gbZb-H3ytLY_T8Hz48?e=PbD91c
+
+dataset link
+https://www.kaggle.com/datasets/ruchi798/housing-prices-in-metropolitan-areas-of-india
